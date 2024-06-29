@@ -1,0 +1,23 @@
+.prviDiv {
+	background-color: black;
+	color: white;
+	margin: 0px 40px 0px 40px;
+	border: 11px groove pink;
+}
+.drugiDiv {
+	background-color: red;
+	margin: 100px 80px 100px 80px;
+	border: 10px dashed blue;
+}
+.treciDiv {
+	background-color: green;
+	margin: 0px 120px 0px 120px;
+	border: 10px double white;
+}
+.titlePadding {
+	padding-top: 455px;
+}
+.buyButtonPadding {
+	padding: 200px;
+	margin: 15px;
+}
